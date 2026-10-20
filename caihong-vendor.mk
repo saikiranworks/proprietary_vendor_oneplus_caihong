@@ -499,13 +499,6 @@ PRODUCT_PACKAGES += \
     libvideoml \
     libvmfilexfer \
     sensors.qsh \
-    vendor.display.color@1.0 \
-    vendor.display.color@1.1 \
-    vendor.display.color@1.2 \
-    vendor.display.color@1.3 \
-    vendor.display.color@1.4 \
-    vendor.display.color@1.5 \
-    vendor.display.postproc@1.0 \
     vendor.oplus.hardware.camera.aon-service-impl \
     vendor.oplus.hardware.cammidasservice@1.0 \
     vendor.pixelworks.hardware.display-V2-ndk \
