@@ -511,6 +511,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.camera.aon-service-impl \
     vendor.qti.hardware.camera.offlinecamera-service-impl \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
+    vendor.qti.hardware.display.composer3-V1-ndk \
     vendor.qti.hardware.qdutils_disp@1.0 \
     libQnnHtp.aiboost \
     libQnnHtpPrepare.aiboost \
