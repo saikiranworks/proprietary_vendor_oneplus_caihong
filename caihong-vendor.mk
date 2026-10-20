@@ -78,7 +78,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/caihong/proprietary/odm/etc/lvacfs_params/2mic/audiozoom_7.txt:$(TARGET_COPY_OUT_ODM)/etc/lvacfs_params/2mic/audiozoom_7.txt \
     vendor/oneplus/caihong/proprietary/odm/etc/lvacfs_params/2mic/audiozoom_8.txt:$(TARGET_COPY_OUT_ODM)/etc/lvacfs_params/2mic/audiozoom_8.txt \
     vendor/oneplus/caihong/proprietary/odm/etc/lvacfs_params/2mic/audiozoom_9.txt:$(TARGET_COPY_OUT_ODM)/etc/lvacfs_params/2mic/audiozoom_9.txt \
-    vendor/oneplus/caihong/proprietary/odm/etc/media_codecs_dolby_vision.xml:$(TARGET_COPY_OUT_ODM)/etc/media_codecs_dolby_vision.xml \
     vendor/oneplus/caihong/proprietary/odm/etc/mixer_paths.xml:$(TARGET_COPY_OUT_ODM)/etc/mixer_paths.xml \
     vendor/oneplus/caihong/proprietary/odm/etc/resourcemanager.xml:$(TARGET_COPY_OUT_ODM)/etc/resourcemanager.xml \
     vendor/oneplus/caihong/proprietary/odm/etc/sensor/config/json_list:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/json_list \
@@ -150,6 +149,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/caihong/proprietary/vendor/etc/init/qdcmss.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/qdcmss.rc \
     vendor/oneplus/caihong/proprietary/vendor/etc/init/vendor.qti.camera.provider-service_64.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.qti.camera.provider-service_64.rc \
     vendor/oneplus/caihong/proprietary/vendor/etc/init/vendor.qti.hardware.display.color-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.qti.hardware.display.color-service.rc \
+    vendor/oneplus/caihong/proprietary/vendor/etc/media_codecs_dolby_vision.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_dolby_vision.xml \
     vendor/oneplus/caihong/proprietary/vendor/etc/oem_51_prj_OppoLTM8650_1689712162019.pfm:$(TARGET_COPY_OUT_VENDOR)/etc/oem_51_prj_OppoLTM8650_1689712162019.pfm \
     vendor/oneplus/caihong/proprietary/vendor/etc/snapdragon_color_libs_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/snapdragon_color_libs_config.xml \
     vendor/oneplus/caihong/proprietary/vendor/firmware/CAMERA_ICP.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.b00 \
